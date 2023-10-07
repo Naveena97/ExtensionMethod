@@ -1,0 +1,14 @@
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\bin\Debug\net6.0\ExtensionMethosdTasks.exe
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\bin\Debug\net6.0\ExtensionMethosdTasks.deps.json
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\bin\Debug\net6.0\ExtensionMethosdTasks.runtimeconfig.json
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\bin\Debug\net6.0\ExtensionMethosdTasks.dll
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\bin\Debug\net6.0\ExtensionMethosdTasks.pdb
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\obj\Debug\net6.0\ExtensionMethosdTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\obj\Debug\net6.0\ExtensionMethosdTasks.AssemblyInfoInputs.cache
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\obj\Debug\net6.0\ExtensionMethosdTasks.AssemblyInfo.cs
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\obj\Debug\net6.0\ExtensionMethosdTasks.csproj.CoreCompileInputs.cache
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\obj\Debug\net6.0\ExtensionMethosdTasks.dll
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\obj\Debug\net6.0\refint\ExtensionMethosdTasks.dll
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\obj\Debug\net6.0\ExtensionMethosdTasks.pdb
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\obj\Debug\net6.0\ExtensionMethosdTasks.genruntimeconfig.cache
+C:\Users\Augmento\source\repos\ExtensionMethosdTasks\ExtensionMethosdTasks\obj\Debug\net6.0\ref\ExtensionMethosdTasks.dll
